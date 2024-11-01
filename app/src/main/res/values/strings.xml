@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PurrfectCat</string>
+    <string name="make_a_choice">Сделайте выбор</string>
+    <string name="download_or_delete">Загрузить картинку или удалить из избранного?</string>
+    <string name="download">Загрузить</string>
+    <string name="delete">Удалить</string>
+    <string name="deleting">Удаление</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="deleted">Удалено</string>
+    <string name="cancel">Отмена</string>
+    <string name="download_or_save_to_fav">Загрузить картинку или добавить в избранное?</string>
+    <string name="add_to_favourites">Добавить в избранное</string>
+    <string name="added_to_favourites">Добавлено в избранное</string>
+    <string name="search">Поиск</string>
+    <string name="favourites">Избранное</string>
+    <string name="cat">kitty</string>
+</resources>
